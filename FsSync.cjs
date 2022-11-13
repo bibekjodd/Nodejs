@@ -34,3 +34,5 @@ const fs = require('fs');
 // delete folder 
 // fs.rmdirSync("Hello");
 // fs.appendFileSync("FsAsyncCoreModule.js", "//Asynchronous fs in NODEJS");
+
+console.log(fs.readdirSync('.'))

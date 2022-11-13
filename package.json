@@ -11,10 +11,11 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.1",
+    "chalk": "^5.1.2",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
     "nodemon": "^2.0.19",
     "validator": "^13.7.0"
   },
-  "devDependencies": {},
   "description": ""
 }
